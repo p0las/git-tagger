@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.p0las.gittagger.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.p0las.gittagger.MyBundle
 
 class MyApplicationService {
 
